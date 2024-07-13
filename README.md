@@ -6,7 +6,7 @@ This repository contains a React-based one-page application featuring a Header, 
 
 ## Demo
 
-You can view a live demo of the application [here]
+You can view a live demo of the application [https://main--peaceful-jelly-685a93.netlify.app/]
 
 ## Features
 
