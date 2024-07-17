@@ -59,3 +59,25 @@ a{
 img{
   max-width: 100%;
 }
+
+.dark-mode-on{
+  background-color: #393939;
+  color: #fff;
+
+  .hero,
+  .blogs,
+  .blogpost-card,
+  .blog-card-author-infos,
+  .calculator,
+  .calc-inner-input-wrapper{
+    background-color: #393939;
+  }
+
+  .blogpost-card{
+    border: 1px solid #fff;
+  }
+
+  .calc-inner-input-wrapper{
+    border: 1px solid #fff;
+  }
+}

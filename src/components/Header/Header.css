@@ -17,6 +17,13 @@ nav a{
     padding: 1em;
 }
 
+.dark-icon{
+    width: 20px;
+    height: 20px;
+    fill: #fff;
+    cursor: pointer;
+}
+
 @media (max-width: 786px) {
     header{
         flex-direction: column;
@@ -33,3 +40,4 @@ nav a{
     }
     
 }
+
